@@ -11,4 +11,4 @@ Contenido
 
 
 * **Algortimos basados en densidad:**
-    - [DBSCAN](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Multidimensional_Scaling.ipynb)
+    - [DBSCAN](https://nbviewer.jupyter.org/github/JAVI897/Clustering-algoritmos/blob/master/DBSCAN.ipynb)
